@@ -1,11 +1,11 @@
 {
   "name": "@farsijs/farsijs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Tools for persian developers",
   "keywords": [
     "farsi js",
-		"iranian national id validation",
-		"iranian national id generator",
+    "iranian national id validation",
+    "iranian national id generator",
     "IBAN validation",
     "sheba validation",
     "IBAN generator",
@@ -21,11 +21,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/msdit/farsijs"
+    "url": "git+https://github.com/farsijs/farsijs.git"
   },
   "author": "Masoud Aghaei",
   "license": "MIT",
-  "homepage": "https://github.com/msdit/farsijs",
+  "homepage": "https://github.com/farsijs/farsijs",
+  "bugs": {
+    "url": "https://github.com/farsijs/farsijs/issues"
+  },
   "devDependencies": {
     "@types/chai": "^4.3.4",
     "@types/mocha": "^10.0.1",
